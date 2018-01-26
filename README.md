@@ -1,4 +1,4 @@
-# DEPRECATION NOTICE: THIS REPO HAS BEEN MOVED TO [https://github.com/cloudlibz/gocloud](CloudLibz)
+# DEPRECATION NOTICE: THIS REPO HAS BEEN MOVED TO [https://github.com/cloudlibz/gocloud](https://github.com/cloudlibz/gocloud)
 
 # gocloud
 Cloud services library
